@@ -8,6 +8,8 @@ so the parser can be adapted without editing Python.
 
 Need a small authorized extraction or automation task? Book the fixed-scope [Python Automation, Data Cleanup & QA service](https://contra.com/s/mXUk6X3o-python-automation-data-cleanup-and-qa) from USD 75.
 
+Prefer a reusable download? Buy the [single-user commercial toolkit for USD 29](https://contra.com/products/4LenSM3O-offline-job-board-extractor-python-toolkit).
+
 ## What it demonstrates
 
 - Configurable selectors for title, company, location, link, and description
