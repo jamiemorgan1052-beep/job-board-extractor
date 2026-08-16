@@ -6,6 +6,8 @@ so the parser can be adapted without editing Python.
 
 ![Abstract project illustration](docs/featured.png)
 
+Need a small authorized extraction or automation task? Book the fixed-scope [Python Automation, Data Cleanup & QA service](https://contra.com/s/mXUk6X3o-python-automation-data-cleanup-and-qa) from USD 75.
+
 ## What it demonstrates
 
 - Configurable selectors for title, company, location, link, and description
