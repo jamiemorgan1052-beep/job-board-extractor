@@ -1,0 +1,8 @@
+{
+  "card": "article.job",
+  "title": "h2.title",
+  "company": ".company",
+  "location": ".location",
+  "link": "a.apply",
+  "description": ".description"
+}
