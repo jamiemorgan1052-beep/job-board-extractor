@@ -74,4 +74,3 @@ systems.
 
 See [PROVENANCE.md](PROVENANCE.md) for authorship and AI-assistance disclosure.
 Licensed under the [MIT License](LICENSE).
-

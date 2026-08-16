@@ -11,4 +11,3 @@ the software.
 All input fixtures are synthetic. The project contains no client data,
 credentials, tracking code, proprietary source, or third-party assets. It uses
 only Python's standard library.
-

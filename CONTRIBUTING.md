@@ -9,4 +9,3 @@ Issues and focused pull requests are welcome. Before proposing a change:
 
 Never submit scraped personal data, credentials, copyrighted page dumps, or
 fixtures copied from a live client site.
-
